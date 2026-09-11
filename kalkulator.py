@@ -1,6 +1,6 @@
 def calculator():
     print("Jednoduchá Python kalkulačka")
-    print("Dostupné operace: +, -, *, /")
+    print("Dostupné operace: +, -, *, /,**")
     print("Pro ukončení zadej 'q'.\n")
 
     while True:
